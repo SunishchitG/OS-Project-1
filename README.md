@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Project-1---Quash-A-Simple-Shell
-=======
 ### Getting started
 There are various things you can do to quickly and efficiently configure your Codio Box to your exact requirements. 
 
@@ -38,7 +34,3 @@ You can always install software onto your Box using the command line. However, C
 We can easily add new items to the Install Software screen, so feel free to submit requests.
 
 [Install Software documentation](https://codio.com/docs/ide/boxes/installsw/box-parts/)
->>>>>>> this is my project
-=======
-# Swe-Project-1-Shell-
->>>>>>> b6b6b792e0015c72b4bf7264d4376806c879d80c
